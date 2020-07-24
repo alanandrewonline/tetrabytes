@@ -1,0 +1,36 @@
+@media (max-width: 768px)
+{
+    .mainarea{
+        padding: 0;
+        margin: 0;
+    }
+    .mainsection{
+        padding: 0;
+        margin: 0;
+        width: 100%
+    }
+    .desktopembed{
+        display: none;
+    }
+    .mobileembed{
+        height:250.2px;
+
+        margin-bottom: 1rem;
+    }
+    .relatedlinks{
+        padding: 4px;
+        margin: 0;
+        background: #fffff0;
+        border: 1px wheat solid;
+        display: initial;
+        width: 96.7567%;
+        min-width: 358px;
+        text-align: center;
+    }
+    .mobileembedp{
+        display: initial;
+    }
+    .desktopembedp{
+        display: none;
+    }
+}

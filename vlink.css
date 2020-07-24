@@ -1,0 +1,19 @@
+.vlink{
+    background: silver;
+    text-decoration: none;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    color: rgb(73, 0, 0);
+    display: block;
+    max-width: 868; 
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: rachana;
+}
+.vlink:hover{
+    color: rgb(255, 255, 255);
+    background: green;
+}
+section{
+    padding-top: 0.5rem;
+}
